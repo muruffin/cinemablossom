@@ -1,0 +1,2 @@
+# cinemablossom
+plugin cloudstream latino
