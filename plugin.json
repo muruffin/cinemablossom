@@ -1,0 +1,9 @@
+{
+  "name": "Cinemablossom",
+  "description": "Películas, kdramas y caricaturas en latino 🌸",
+  "manifestVersion": 1,
+  "pluginVersion": "1.0.0",
+  "author": "muruffin",
+  "url": "https://raw.githubusercontent.com/muruffin/cinemablossom/main/Cinemablossom.kt",
+  "tvTypes": ["Movie", "TvSeries"]
+}
